@@ -1,6 +1,6 @@
 import pygame
 
-class Bricks:
+class Brick:
     def __init__(self, width, height, color, main_surface):
         self.main_surface = main_surface
         self.color = color
